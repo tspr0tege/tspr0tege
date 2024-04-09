@@ -47,4 +47,4 @@ I worked exclusively on the platform's front-end, addressing bugs, updating the 
 
 ### [Email Me](mailto:squallpl@proton.me)
 
-### [Conenct on LinkedIn](https://www.linkedin.com/in/squall-leonhart/)
+### [Connect on LinkedIn](https://www.linkedin.com/in/squall-leonhart/)
