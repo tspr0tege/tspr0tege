@@ -63,7 +63,7 @@ I worked exclusively on the platform's front-end, addressing bugs, updating the 
 
 Hack Reactor Javascript Immersive Course and Student Residency - Graduated April 2021
 
-## 🔌 ​🇨​onnect
+## ​🇨​onnect 🔌
 
 ### [Email](mailto:squallpl1983@gmail.com)
 
