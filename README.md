@@ -1,6 +1,6 @@
 # Hello there!
 
-## <-- Meet Squall
+## <-- Squall
 
 Welcome!
 
